@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.circle{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: rgb(156, 59, 175);
+    display: flex;
+    align-items: center;
+}
+
+.circle-center{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: rgb(255, 255, 255);
+    margin: 0  auto;
+}
